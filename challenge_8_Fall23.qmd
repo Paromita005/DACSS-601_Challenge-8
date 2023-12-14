@@ -1,0 +1,20 @@
+---
+title: "new_repo_quarto"
+author: "Paromita Shome"
+description: "Creating a new quarto file in a github version control R project"
+date: "12/15/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+Let's try editing the quarto file.
+I watched 'Wonder Woman'.
+
+
