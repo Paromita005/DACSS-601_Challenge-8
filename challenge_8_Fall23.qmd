@@ -16,7 +16,6 @@ categories:
 
 Let's try editing the quarto file.
 I watched 'Wonder Woman'.
-I 
 I ate rice.
 
 
